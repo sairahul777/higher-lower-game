@@ -55,7 +55,7 @@ A fun and addictive **command-line game** inspired by the popular *Higher Lower*
 ### 🚀 Steps to Play
 
 # Clone the repository
-git clone https://github.com/your-username/higher-lower-game-python.git
+git clone https://github.com/sairahul777/higher-lower-game-python.git
 cd higher-lower-game-python
 
 # Run the game
