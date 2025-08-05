@@ -138,7 +138,7 @@ Better luck next time!👍
 ---
 
 
-##🌟 Future Improvements
+## 🌟 Future Improvements
 
 - Add categories: sports, entertainment, music
 
