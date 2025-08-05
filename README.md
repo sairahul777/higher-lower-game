@@ -59,7 +59,7 @@ python higher_lower_game.py
 
 ---
 
-👨‍💻 Sample Gameplay
+##👨‍💻 Sample Gameplay
 
 
 <pre>
@@ -110,7 +110,7 @@ Better luck next time!👍
 
 ---
 
-🧱 Project Structure
+##🧱 Project Structure
 
 📂 higher-lower-game-python
 ├── higher_lower_game.py   # Main game logic
@@ -119,7 +119,7 @@ Better luck next time!👍
 
 ---
 
-🎓 Learning Outcomes
+##🎓 Learning Outcomes
 
 - This project is great for learning:
 
@@ -138,7 +138,7 @@ Better luck next time!👍
 ---
 
 
-🌟 Future Improvements
+##🌟 Future Improvements
 
 - Add categories: sports, entertainment, music
 
